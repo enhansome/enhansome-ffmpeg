@@ -56,7 +56,7 @@
             "last_commit": "2026-03-21T10:28:10Z",
             "owner": "eugeneware",
             "repo": "ffmpeg-static",
-            "stars": 1379
+            "stars": 1382
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2018-08-09T15:23:16Z",
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-generate-video-preview",
-            "stars": 160
+            "stars": 161
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2016-04-19T11:30:33Z",
             "owner": "leixiaohua1020",
             "repo": "simplest_ffmpeg_mobile",
-            "stars": 1948
+            "stars": 1947
           }
         }
       ],
@@ -242,7 +242,7 @@
             "last_commit": "2026-06-18T14:18:13Z",
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11030
+            "stars": 11031
           }
         },
         {
@@ -288,7 +288,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:34:20.117Z",
+    "last_updated": "2026-08-17T20:38:54.694Z",
     "original_repository": "transitive-bullshit/awesome-ffmpeg",
     "original_repository_sha": "a9c6f2d469b50ba46d630f0a22c24752641bdff0",
     "enhanced_repository": "enhansome/enhansome-ffmpeg",
