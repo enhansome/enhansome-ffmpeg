@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1602811,
             "language": "JavaScript",
             "last_commit": "2025-05-22T09:42:00Z",
             "owner": "fluent-ffmpeg",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255940939,
             "language": "TypeScript",
             "last_commit": "2025-05-12T07:03:44Z",
             "owner": "mifi",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39156353,
             "language": "JavaScript",
             "last_commit": "2023-11-04T22:20:41Z",
             "owner": "Kagami",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29458513,
             "language": "JavaScript",
             "last_commit": "2026-03-21T10:28:10Z",
             "owner": "eugeneware",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128102393,
             "language": "JavaScript",
             "last_commit": "2026-01-24T03:05:04Z",
             "owner": "transitive-bullshit",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127816844,
             "language": "JavaScript",
             "last_commit": "2018-08-09T15:23:16Z",
             "owner": "transitive-bullshit",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127136873,
             "language": "JavaScript",
             "last_commit": "2020-12-11T13:36:40Z",
             "owner": "transitive-bullshit",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132033533,
             "language": "JavaScript",
             "last_commit": "2020-07-11T23:15:06Z",
             "owner": "transitive-bullshit",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127616144,
             "language": "JavaScript",
             "last_commit": "2020-07-11T23:12:27Z",
             "owner": "transitive-bullshit",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127109276,
             "language": "JavaScript",
             "last_commit": "2023-01-25T07:24:12Z",
             "owner": "transitive-bullshit",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127134130,
             "language": "JavaScript",
             "last_commit": "2022-12-07T02:18:16Z",
             "owner": "transitive-bullshit",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127090732,
             "language": "JavaScript",
             "last_commit": "2020-07-11T23:13:02Z",
             "owner": "transitive-bullshit",
@@ -178,24 +190,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186263145,
             "language": "TypeScript",
             "last_commit": "2019-05-26T17:58:25Z",
             "owner": "NiKlimenko",
             "repo": "FFParser",
             "stars": 8
           }
-        },
-        {
-          "node_type": "item",
-          "title": "tangerine",
-          "description": "Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.",
-          "children": []
         }
       ],
       "title": "JavaScript"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -204,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10446890,
             "language": "C",
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
@@ -218,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37859114,
             "language": "C",
             "last_commit": "2016-04-19T11:30:33Z",
             "owner": "leixiaohua1020",
@@ -229,7 +238,7 @@
       "title": "Mobile"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -238,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109762904,
             "language": "C",
             "last_commit": "2026-06-18T14:18:13Z",
             "owner": "leandromoreira",
@@ -252,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 986349852,
             "language": null,
             "last_commit": "2026-04-29T19:44:19Z",
             "owner": "rendi-api",
@@ -266,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953242629,
             "language": null,
             "last_commit": "2025-07-15T03:53:17Z",
             "owner": "talwrii",
@@ -275,21 +287,12 @@
         }
       ],
       "title": "Tutorials"
-    },
-    {
-      "description": "Contributions welcome! Please read the contributing guideline first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, Travis Fischer has waived all copyright and related or neighboring rights to this work.\nSupport my OSS work by following me on twitter",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:35:44.964Z",
+    "last_updated": "2026-08-19T12:26:35.041Z",
     "original_repository": "transitive-bullshit/awesome-ffmpeg",
+    "original_repository_id": 127764675,
     "original_repository_sha": "a9c6f2d469b50ba46d630f0a22c24752641bdff0",
     "enhanced_repository": "enhansome/enhansome-ffmpeg",
     "enhanced_repository_description": null,
