@@ -30,7 +30,7 @@
             "last_commit": "2025-05-12T07:03:44Z",
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5470
+            "stars": 5472
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-21T10:28:10Z",
             "owner": "eugeneware",
             "repo": "ffmpeg-static",
-            "stars": 1383
+            "stars": 1385
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33196
+            "stars": 33195
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T20:40:22.586Z",
+    "last_updated": "2026-08-20T20:41:04.496Z",
     "original_repository": "transitive-bullshit/awesome-ffmpeg",
     "original_repository_id": 127764675,
     "original_repository_sha": "a9c6f2d469b50ba46d630f0a22c24752641bdff0",
