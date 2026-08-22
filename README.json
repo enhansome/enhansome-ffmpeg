@@ -15,7 +15,7 @@
             "last_commit": "2025-05-22T09:42:00Z",
             "owner": "fluent-ffmpeg",
             "repo": "node-fluent-ffmpeg",
-            "stars": 8242
+            "stars": 8241
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-05-12T07:03:44Z",
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5473
+            "stars": 5476
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33196
+            "stars": 33195
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-04-29T19:44:19Z",
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1736
+            "stars": 1737
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T20:36:39.764Z",
+    "last_updated": "2026-08-22T20:35:28.319Z",
     "original_repository": "transitive-bullshit/awesome-ffmpeg",
     "original_repository_id": 127764675,
     "original_repository_sha": "a9c6f2d469b50ba46d630f0a22c24752641bdff0",
