@@ -60,7 +60,7 @@
             "last_commit": "2026-03-21T10:28:10Z",
             "owner": "eugeneware",
             "repo": "ffmpeg-static",
-            "stars": 1386
+            "stars": 1387
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-06-18T14:18:13Z",
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11033
+            "stars": 11035
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T20:35:28.319Z",
+    "last_updated": "2026-08-23T20:35:20.864Z",
     "original_repository": "transitive-bullshit/awesome-ffmpeg",
     "original_repository_id": 127764675,
     "original_repository_sha": "a9c6f2d469b50ba46d630f0a22c24752641bdff0",
