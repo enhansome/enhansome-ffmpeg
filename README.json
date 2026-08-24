@@ -30,7 +30,7 @@
             "last_commit": "2025-05-12T07:03:44Z",
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5476
+            "stars": 5477
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-01-24T03:05:04Z",
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-concat",
-            "stars": 988
+            "stars": 989
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33195
+            "stars": 33196
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-06-18T14:18:13Z",
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11035
+            "stars": 11036
           }
         },
         {
@@ -290,10 +290,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T20:35:20.864Z",
+    "last_updated": "2026-08-24T14:13:44.906Z",
     "original_repository": "transitive-bullshit/awesome-ffmpeg",
     "original_repository_id": 127764675,
-    "original_repository_sha": "a9c6f2d469b50ba46d630f0a22c24752641bdff0",
+    "original_repository_sha": "e8330fcaeb126997313daf73b5ad0700646607ae",
     "enhanced_repository": "enhansome/enhansome-ffmpeg",
     "enhanced_repository_description": null,
     "title": "Awesome FFmpeg with stars"
