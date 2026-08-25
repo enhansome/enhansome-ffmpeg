@@ -45,7 +45,7 @@
             "last_commit": "2023-11-04T22:20:41Z",
             "owner": "Kagami",
             "repo": "ffmpeg.js",
-            "stars": 3462
+            "stars": 3460
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33197
+            "stars": 33198
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-06-18T14:18:13Z",
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11036
+            "stars": 11038
           }
         },
         {
@@ -290,7 +290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:58.719Z",
+    "last_updated": "2026-08-25T20:41:07.834Z",
     "original_repository": "transitive-bullshit/awesome-ffmpeg",
     "original_repository_id": 127764675,
     "original_repository_sha": "e8330fcaeb126997313daf73b5ad0700646607ae",
