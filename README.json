@@ -30,7 +30,7 @@
             "last_commit": "2025-05-12T07:03:44Z",
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5477
+            "stars": 5478
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33200
+            "stars": 33201
           }
         },
         {
@@ -290,9 +290,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:25:28.265Z",
-    "original_repository": "transitive-bullshit/awesome-ffmpeg",
-    "original_repository_id": 127764675,
+    "last_updated": "2026-08-27T11:39:06.551Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 127764675,
+      "language": null,
+      "last_commit": "2026-08-24T07:25:00Z",
+      "owner": "transitive-bullshit",
+      "repo": "awesome-ffmpeg",
+      "stars": 1183
+    },
     "original_repository_sha": "e8330fcaeb126997313daf73b5ad0700646607ae",
     "enhanced_repository": "enhansome/enhansome-ffmpeg",
     "enhanced_repository_description": null,

@@ -28,7 +28,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## JavaScript
 
 * [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) ⚠️ Archived - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
-* [editly](https://github.com/mifi/editly) ⭐ 5,477 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
+* [editly](https://github.com/mifi/editly) ⭐ 5,478 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
 * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,460 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
 * [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,387 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 * [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 989 | 🐛 53 | 🌐 JavaScript | 📅 2026-01-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
@@ -48,7 +48,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Mobile
 
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,200 | 🐛 2,897 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,201 | 🐛 2,897 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
 * [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,948 | 🐛 65 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
 
 ## Tutorials
@@ -80,4 +80,4 @@ Support my OSS work by <a href="https://twitter.com/transitive_bs">following me 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
