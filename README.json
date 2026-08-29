@@ -31,7 +31,7 @@
             "last_commit": "2025-05-12T07:03:44Z",
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5478
+            "stars": 5479
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -229,7 +229,7 @@
             "last_commit": "2024-08-13T00:53:33Z",
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33200
+            "stars": 33201
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -267,7 +267,7 @@
             "last_commit": "2026-06-18T14:18:13Z",
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11040
+            "stars": 11039
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:21:01.180Z",
+    "last_updated": "2026-08-29T02:47:30.457Z",
     "original_repository_info": {
       "archived": false,
       "id": 127764675,
@@ -316,7 +316,7 @@
       "last_commit": "2026-08-24T07:25:00Z",
       "owner": "transitive-bullshit",
       "repo": "awesome-ffmpeg",
-      "stars": 1184
+      "stars": 1185
     },
     "original_repository_sha": "e8330fcaeb126997313daf73b5ad0700646607ae",
     "enhanced_repository": "enhansome/enhansome-ffmpeg",
