@@ -19,7 +19,7 @@
             "open_issues": 419,
             "owner": "fluent-ffmpeg",
             "repo": "node-fluent-ffmpeg",
-            "stars": 8240,
+            "stars": 8241,
             "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
@@ -75,7 +75,7 @@
             "open_issues": 82,
             "owner": "Kagami",
             "repo": "ffmpeg.js",
-            "stars": 3460,
+            "stars": 3461,
             "topics": [
               "emscripten",
               "ffmpeg",
@@ -121,7 +121,7 @@
             "open_issues": 53,
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-concat",
-            "stars": 987,
+            "stars": 988,
             "topics": [
               "ffmpeg",
               "fluent-ffmpeg",
@@ -356,7 +356,7 @@
             "open_issues": 2897,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33202,
+            "stars": 33203,
             "topics": [
               "android",
               "ffmpeg",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:36.324Z",
+    "last_updated": "2026-08-29T22:37:32.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
@@ -494,7 +494,7 @@
       "open_issues": 16,
       "owner": "transitive-bullshit",
       "repo": "awesome-ffmpeg",
-      "stars": 1186,
+      "stars": 1187,
       "topics": [
         "awesome",
         "awesome-list",
