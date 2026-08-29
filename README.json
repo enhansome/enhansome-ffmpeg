@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A fluent API to FFMPEG (http://www.ffmpeg.org)",
+            "homepage": null,
             "id": 1602811,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-22T09:42:00Z",
+            "open_issues": 419,
             "owner": "fluent-ffmpeg",
             "repo": "node-fluent-ffmpeg",
-            "stars": 8240
+            "stars": 8240,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -26,12 +31,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Slick, declarative command line video editing & API",
+            "homepage": null,
             "id": 255940939,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-12T07:03:44Z",
+            "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5479
+            "stars": 5479,
+            "topics": [
+              "animations",
+              "cli",
+              "clips",
+              "command-line",
+              "editor",
+              "ffmpeg",
+              "images",
+              "opengl",
+              "slideshow",
+              "subtitle",
+              "transition",
+              "video",
+              "video-editor"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -42,12 +66,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of FFmpeg with Emscripten",
+            "homepage": null,
             "id": 39156353,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-04T22:20:41Z",
+            "open_issues": 82,
             "owner": "Kagami",
             "repo": "ffmpeg.js",
-            "stars": 3460
+            "stars": 3460,
+            "topics": [
+              "emscripten",
+              "ffmpeg",
+              "webm"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -58,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ffmpeg static binaries for Mac OSX and Linux and Windows",
+            "homepage": null,
             "id": 29458513,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-21T10:28:10Z",
+            "open_issues": 34,
             "owner": "eugeneware",
             "repo": "ffmpeg-static",
-            "stars": 1387
+            "stars": 1387,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -74,12 +112,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Concats a list of videos together using ffmpeg with sexy OpenGL transitions.",
+            "homepage": null,
             "id": 128102393,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-24T03:05:04Z",
+            "open_issues": 53,
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-concat",
-            "stars": 987
+            "stars": 987,
+            "topics": [
+              "ffmpeg",
+              "fluent-ffmpeg",
+              "opengl",
+              "transition"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -90,12 +138,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generates an attractive image strip or GIF preview from a video.",
+            "homepage": null,
             "id": 127816844,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-08-09T15:23:16Z",
+            "open_issues": 6,
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-generate-video-preview",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "ffmpeg",
+              "fluent-ffmpeg",
+              "gif",
+              "preview",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -106,12 +165,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extracts frames from a video using ffmpeg.",
+            "homepage": null,
             "id": 127136873,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-11T13:36:40Z",
+            "open_issues": 8,
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-extract-frames",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "ffmpeg",
+              "fluent-ffmpeg",
+              "screenshot"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -122,12 +190,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extracts frames from a GIF including inter-frame coalescing.",
+            "homepage": null,
             "id": 132033533,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-11T23:15:06Z",
+            "open_issues": 1,
             "owner": "transitive-bullshit",
             "repo": "gif-extract-frames",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "coalesce",
+              "coalescing",
+              "extract-frames",
+              "gif",
+              "gif-animation",
+              "gifsicle"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -138,12 +218,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extracts an audio stream from a media file.",
+            "homepage": null,
             "id": 127616144,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-11T23:12:27Z",
+            "open_issues": 2,
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-extract-audio",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ffmpeg",
+              "fluent-ffmpeg"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -154,12 +242,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrapper around ffprobe for getting info about media files.",
+            "homepage": null,
             "id": 127109276,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-25T07:24:12Z",
+            "open_issues": 12,
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-probe",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "ffmpeg",
+              "ffprobe",
+              "fluent-ffmpeg"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -170,12 +267,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extracts a single frame from a video.",
+            "homepage": null,
             "id": 127134130,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-07T02:18:16Z",
+            "open_issues": 15,
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-extract-frame",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "ffmpeg",
+              "fluent-ffmpeg",
+              "screenshot"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -186,12 +292,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility for robustly reporting progress with fluent-ffmpeg.",
+            "homepage": null,
             "id": 127090732,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-11T23:13:02Z",
+            "open_issues": 1,
             "owner": "transitive-bullshit",
             "repo": "ffmpeg-on-progress",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ffmpeg",
+              "fluent-ffmpeg"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -202,12 +316,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FFMPEG Frame Parser. Easy to use. Without any dependencies",
+            "homepage": null,
             "id": 186263145,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-05-26T17:58:25Z",
+            "open_issues": 0,
             "owner": "NiKlimenko",
             "repo": "FFParser",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "buffer",
+              "ffmpeg",
+              "frame"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         }
@@ -224,12 +347,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+            "homepage": null,
             "id": 10446890,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-13T00:53:33Z",
+            "open_issues": 2897,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33201
+            "stars": 33202,
+            "topics": [
+              "android",
+              "ffmpeg",
+              "ijkplayer",
+              "ios",
+              "player",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -240,12 +375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ffmpeg examples in Android / IOS / WinPhone",
+            "homepage": "http://leixiaohua1020.github.com/",
             "id": 37859114,
             "language": "C",
+            "license": null,
             "last_commit": "2016-04-19T11:30:33Z",
+            "open_issues": 65,
             "owner": "leixiaohua1020",
             "repo": "simplest_ffmpeg_mobile",
-            "stars": 1948
+            "stars": 1948,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         }
@@ -262,12 +402,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: 🇺🇸 🇨🇳 🇰🇷 🇪🇸 🇻🇳 🇧🇷 🇷🇺",
+            "homepage": "https://github.com/leandromoreira/ffmpeg-libav-tutorial",
             "id": 109762904,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-18T14:18:13Z",
+            "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11039
+            "stars": 11039,
+            "topics": [
+              "codec",
+              "ffmpeg",
+              "ffmpeg-libraries",
+              "libav",
+              "transcode-video",
+              "tutorial",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -278,12 +431,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A categorized collection of FFmpeg commands for video automation pipelines.",
+            "homepage": "https://rendi.dev",
             "id": 986349852,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-29T19:44:19Z",
+            "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1738
+            "stars": 1738,
+            "topics": [
+              "automation",
+              "cheatsheet",
+              "ffmpeg",
+              "ffprobe",
+              "gist",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         },
@@ -294,12 +459,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A beginner's cookbook for the FFmpeg command-line video and audio editing tool",
+            "homepage": null,
             "id": 953242629,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-07-15T03:53:17Z",
+            "open_issues": 1,
             "owner": "talwrii",
             "repo": "ffmpeg-cookbook",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "command-line",
+              "cookbook",
+              "ffmepg"
+            ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
         }
@@ -308,15 +482,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:47:30.457Z",
+    "last_updated": "2026-08-29T04:35:36.324Z",
     "original_repository_info": {
       "archived": false,
+      "description": "👻 A curated list of awesome FFmpeg resources.",
+      "homepage": null,
       "id": 127764675,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-24T07:25:00Z",
+      "open_issues": 16,
       "owner": "transitive-bullshit",
       "repo": "awesome-ffmpeg",
-      "stars": 1185
+      "stars": 1186,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ffmpeg",
+        "fluent-ffmpeg"
+      ]
     },
     "original_repository_sha": "e8330fcaeb126997313daf73b5ad0700646607ae",
     "enhanced_repository": "enhansome/enhansome-ffmpeg",
