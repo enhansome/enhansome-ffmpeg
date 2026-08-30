@@ -353,7 +353,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2024-08-13T00:53:33Z",
-            "open_issues": 2897,
+            "open_issues": 2898,
             "owner": "bilibili",
             "repo": "ijkplayer",
             "stars": 33203,
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:37:32.571Z",
+    "last_updated": "2026-08-30T22:41:48.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
