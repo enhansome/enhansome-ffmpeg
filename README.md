@@ -30,7 +30,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 * [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) ⚠️ Archived - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
 * [editly](https://github.com/mifi/editly) ⭐ 5,480 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
 * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,462 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
-* [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,387 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
+* [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,388 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 * [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 988 | 🐛 53 | 🌐 JavaScript | 📅 2026-01-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
 * [ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) ⭐ 161 | 🐛 6 | 🌐 JavaScript | 📅 2018-08-09 - Generates an attractive image strip or GIF preview from a video.
 * [ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) ⭐ 64 | 🐛 8 | 🌐 JavaScript | 📅 2020-12-11 - Extracts screenshots from a video using FFmpeg.
@@ -53,8 +53,8 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Tutorials
 
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 11,040 | 🐛 42 | 🌐 C | 📅 2026-06-18
-* [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 1,738 | 🐛 1 | 📅 2026-04-29
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 11,042 | 🐛 42 | 🌐 C | 📅 2026-06-18
+* [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 1,740 | 🐛 1 | 📅 2026-04-29
 * [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook) ⭐ 101 | 🐛 1 | 📅 2025-07-15
 * [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
 * [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
@@ -80,4 +80,4 @@ Support my OSS work by <a href="https://twitter.com/transitive_bs">following me 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
