@@ -28,10 +28,10 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## JavaScript
 
 * [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) ⚠️ Archived - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
-* [editly](https://github.com/mifi/editly) ⭐ 5,482 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
-* [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,462 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
-* [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,388 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
-* [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 989 | 🐛 53 | 🌐 JavaScript | 📅 2026-01-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
+* [editly](https://github.com/mifi/editly) ⭐ 5,485 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
+* [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,463 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
+* [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,389 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
+* [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 988 | 🐛 53 | 🌐 JavaScript | 📅 2026-01-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
 * [ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) ⭐ 161 | 🐛 6 | 🌐 JavaScript | 📅 2018-08-09 - Generates an attractive image strip or GIF preview from a video.
 * [ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) ⭐ 64 | 🐛 8 | 🌐 JavaScript | 📅 2020-12-11 - Extracts screenshots from a video using FFmpeg.
 * [gif-extract-frames](https://github.com/transitive-bullshit/gif-extract-frames) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-11 - Extracts frames from GIFs including inter-frame coalescing.
@@ -44,17 +44,17 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Native
 
-* [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) ⭐ 720 | 🐛 36 | 🌐 C | 📅 2024-07-23 - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+* [ffmpeg-gl-transition](https://github.com/transitive-bullshit/ffmpeg-gl-transition) ⭐ 719 | 🐛 36 | 🌐 C | 📅 2024-07-23 - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
 
 ## Mobile
 
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,204 | 🐛 2,898 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
-* [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,948 | 🐛 65 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,202 | 🐛 2,898 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
+* [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,947 | 🐛 65 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
 
 ## Tutorials
 
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 11,043 | 🐛 42 | 🌐 C | 📅 2026-06-18
-* [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 1,740 | 🐛 1 | 📅 2026-04-29
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 11,044 | 🐛 42 | 🌐 C | 📅 2026-06-18
+* [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 1,739 | 🐛 1 | 📅 2026-04-29
 * [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook) ⭐ 101 | 🐛 1 | 📅 2025-07-15
 * [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
 * [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
@@ -80,4 +80,4 @@ Support my OSS work by <a href="https://twitter.com/transitive_bs">following me 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
