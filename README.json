@@ -19,7 +19,7 @@
             "open_issues": 419,
             "owner": "fluent-ffmpeg",
             "repo": "node-fluent-ffmpeg",
-            "stars": 8241,
+            "stars": 8240,
             "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
@@ -40,7 +40,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5486,
+            "stars": 5485,
             "topics": [
               "animations",
               "cli",
@@ -356,7 +356,7 @@
             "open_issues": 2898,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33202,
+            "stars": 33203,
             "topics": [
               "android",
               "ffmpeg",
@@ -384,7 +384,7 @@
             "open_issues": 65,
             "owner": "leixiaohua1020",
             "repo": "simplest_ffmpeg_mobile",
-            "stars": 1947,
+            "stars": 1945,
             "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
@@ -440,7 +440,7 @@
             "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1739,
+            "stars": 1740,
             "topics": [
               "automation",
               "cheatsheet",
@@ -468,7 +468,7 @@
             "open_issues": 1,
             "owner": "talwrii",
             "repo": "ffmpeg-cookbook",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "command-line",
               "cookbook",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:19:30.101Z",
+    "last_updated": "2026-09-05T22:02:12.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
