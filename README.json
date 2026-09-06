@@ -75,7 +75,7 @@
             "open_issues": 82,
             "owner": "Kagami",
             "repo": "ffmpeg.js",
-            "stars": 3463,
+            "stars": 3462,
             "topics": [
               "emscripten",
               "ffmpeg",
@@ -353,7 +353,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2024-08-13T00:53:33Z",
-            "open_issues": 2898,
+            "open_issues": 2900,
             "owner": "bilibili",
             "repo": "ijkplayer",
             "stars": 33203,
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:02:12.193Z",
+    "last_updated": "2026-09-06T22:05:39.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
