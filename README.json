@@ -356,7 +356,7 @@
             "open_issues": 2900,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33204,
+            "stars": 33203,
             "topics": [
               "android",
               "ffmpeg",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T22:46:30.922Z",
+    "last_updated": "2026-09-08T22:35:24.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
@@ -494,7 +494,7 @@
       "open_issues": 17,
       "owner": "transitive-bullshit",
       "repo": "awesome-ffmpeg",
-      "stars": 1188,
+      "stars": 1189,
       "topics": [
         "awesome",
         "awesome-list",
