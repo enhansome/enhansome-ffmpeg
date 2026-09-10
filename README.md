@@ -28,15 +28,15 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## JavaScript
 
 * [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) ⚠️ Archived - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
-* [editly](https://github.com/mifi/editly) ⭐ 5,486 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
-* [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,463 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
+* [editly](https://github.com/mifi/editly) ⭐ 5,487 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
+* [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,462 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
 * [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,391 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
-* [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 988 | 🐛 53 | 🌐 JavaScript | 📅 2026-01-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
+* [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 988 | 🐛 52 | 🌐 JavaScript | 📅 2026-01-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
 * [ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) ⭐ 161 | 🐛 6 | 🌐 JavaScript | 📅 2018-08-09 - Generates an attractive image strip or GIF preview from a video.
 * [ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) ⭐ 64 | 🐛 8 | 🌐 JavaScript | 📅 2020-12-11 - Extracts screenshots from a video using FFmpeg.
 * [gif-extract-frames](https://github.com/transitive-bullshit/gif-extract-frames) ⭐ 33 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-11 - Extracts frames from GIFs including inter-frame coalescing.
 * [ffmpeg-extract-audio](https://github.com/transitive-bullshit/ffmpeg-extract-audio) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2020-07-11 - Extracts an audio stream from a media file.
-* [ffmpeg-probe](https://github.com/transitive-bullshit/ffmpeg-probe) ⭐ 16 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-25 - Wrapper around ffprobe for getting info about media files.
+* [ffmpeg-probe](https://github.com/transitive-bullshit/ffmpeg-probe) ⭐ 16 | 🐛 11 | 🌐 JavaScript | 📅 2023-01-25 - Wrapper around ffprobe for getting info about media files.
 * [ffmpeg-extract-frame](https://github.com/transitive-bullshit/ffmpeg-extract-frame) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2022-12-07 - Extracts a single frame from a video.
 * [ffmpeg-on-progress](https://github.com/transitive-bullshit/ffmpeg-on-progress) ⭐ 14 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-11 - Utility for robustly reporting progress with fluent-ffmpeg.
 * [ffparser](https://github.com/NiKlimenko/FFParser) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2019-05-26 - Parse input stream by frames directly into your code as a buffer.
@@ -48,7 +48,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Mobile
 
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,203 | 🐛 2,900 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,202 | 🐛 2,900 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
 * [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,945 | 🐛 65 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
 
 ## Tutorials
@@ -80,4 +80,4 @@ Support my OSS work by <a href="https://twitter.com/transitive_bs">following me 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
