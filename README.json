@@ -40,7 +40,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5493,
+            "stars": 5500,
             "topics": [
               "animations",
               "cli",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:13:05.170Z",
+    "last_updated": "2026-09-13T22:22:17.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
