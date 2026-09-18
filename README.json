@@ -100,7 +100,7 @@
             "open_issues": 34,
             "owner": "eugeneware",
             "repo": "ffmpeg-static",
-            "stars": 1394,
+            "stars": 1395,
             "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
@@ -333,6 +333,40 @@
             ]
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
+        },
+        {
+          "node_type": "item",
+          "title": "lottie-render",
+          "description": "Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Render Lottie/bodymovin animations to MP4 video, frame by frame — as an npm library or a self-hosted HTTP service",
+            "homepage": "https://lottie.xuedo.ng/",
+            "id": 1090655166,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-18T06:27:46Z",
+            "open_issues": 0,
+            "owner": "steven-panxd",
+            "repo": "lottie-render",
+            "stars": 2,
+            "topics": [
+              "animation",
+              "bodymovin",
+              "ffmpeg",
+              "lottie",
+              "lottie-animation",
+              "mp4",
+              "nodejs",
+              "playwright",
+              "self-hosted",
+              "typescript",
+              "video",
+              "video-processing"
+            ]
+          },
+          "first_seen": "2026-09-18T22:32:04.741Z"
         }
       ],
       "title": "JavaScript"
@@ -356,7 +390,7 @@
             "open_issues": 2900,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33206,
+            "stars": 33209,
             "topics": [
               "android",
               "ffmpeg",
@@ -411,7 +445,7 @@
             "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11047,
+            "stars": 11044,
             "topics": [
               "codec",
               "ffmpeg",
@@ -482,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:49:42.216Z",
+    "last_updated": "2026-09-18T22:32:04.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
@@ -490,7 +524,7 @@
       "id": 127764675,
       "language": null,
       "license": null,
-      "last_commit": "2026-08-24T07:25:00Z",
+      "last_commit": "2026-09-18T02:53:31Z",
       "open_issues": 19,
       "owner": "transitive-bullshit",
       "repo": "awesome-ffmpeg",
@@ -502,7 +536,7 @@
         "fluent-ffmpeg"
       ]
     },
-    "original_repository_sha": "e8330fcaeb126997313daf73b5ad0700646607ae",
+    "original_repository_sha": "33040eb357067054268e9af5a39b72ab1017e0a1",
     "enhanced_repository": "enhansome/enhansome-ffmpeg",
     "enhanced_repository_description": null,
     "title": "Awesome FFmpeg with stars"

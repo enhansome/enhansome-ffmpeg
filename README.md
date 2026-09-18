@@ -30,7 +30,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 * [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) ⚠️ Archived - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
 * [editly](https://github.com/mifi/editly) ⭐ 5,504 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
 * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,461 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
-* [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,394 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
+* [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,395 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 * [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 989 | 🐛 52 | 🌐 JavaScript | 📅 2026-01-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
 * [ffmpeg-generate-video-preview](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) ⭐ 162 | 🐛 6 | 🌐 JavaScript | 📅 2018-08-09 - Generates an attractive image strip or GIF preview from a video.
 * [ffmpeg-extract-frames](https://github.com/transitive-bullshit/ffmpeg-extract-frames) ⭐ 64 | 🐛 8 | 🌐 JavaScript | 📅 2020-12-11 - Extracts screenshots from a video using FFmpeg.
@@ -40,6 +40,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 * [ffmpeg-extract-frame](https://github.com/transitive-bullshit/ffmpeg-extract-frame) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2022-12-07 - Extracts a single frame from a video.
 * [ffmpeg-on-progress](https://github.com/transitive-bullshit/ffmpeg-on-progress) ⭐ 14 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-11 - Utility for robustly reporting progress with fluent-ffmpeg.
 * [ffparser](https://github.com/NiKlimenko/FFParser) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2019-05-26 - Parse input stream by frames directly into your code as a buffer.
+* [lottie-render](https://github.com/steven-panxd/lottie-render) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
 * [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 
 ## Native
@@ -48,12 +49,12 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Mobile
 
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,206 | 🐛 2,900 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,209 | 🐛 2,900 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
 * [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,943 | 🐛 65 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
 
 ## Tutorials
 
-* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 11,047 | 🐛 42 | 🌐 C | 📅 2026-06-18
+* [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial) ⭐ 11,044 | 🐛 42 | 🌐 C | 📅 2026-06-18
 * [FFmpeg Cheatsheet for Video Automation](https://github.com/rendi-api/ffmpeg-cheatsheet) ⭐ 1,743 | 🐛 1 | 📅 2026-04-29
 * [A Beginner's FFmpeg Cookbook](https://github.com/talwrii/ffmpeg-cookbook) ⭐ 103 | 🐛 1 | 📅 2025-07-15
 * [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
@@ -80,4 +81,4 @@ Support my OSS work by <a href="https://twitter.com/transitive_bs">following me 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
