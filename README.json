@@ -346,7 +346,7 @@
             "id": 1090655166,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T06:27:46Z",
+            "last_commit": "2026-09-21T05:53:10Z",
             "open_issues": 0,
             "owner": "steven-panxd",
             "repo": "lottie-render",
@@ -390,7 +390,7 @@
             "open_issues": 2900,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33208,
+            "stars": 33207,
             "topics": [
               "android",
               "ffmpeg",
@@ -445,7 +445,7 @@
             "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11043,
+            "stars": 11044,
             "topics": [
               "codec",
               "ffmpeg",
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1745,
+            "stars": 1744,
             "topics": [
               "automation",
               "cheatsheet",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:23:31.125Z",
+    "last_updated": "2026-09-21T23:13:37.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
