@@ -40,7 +40,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5506,
+            "stars": 5507,
             "topics": [
               "animations",
               "cli",
@@ -100,7 +100,7 @@
             "open_issues": 34,
             "owner": "eugeneware",
             "repo": "ffmpeg-static",
-            "stars": 1395,
+            "stars": 1397,
             "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
@@ -346,7 +346,7 @@
             "id": 1090655166,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T05:53:10Z",
+            "last_commit": "2026-09-23T18:07:39Z",
             "open_issues": 0,
             "owner": "steven-panxd",
             "repo": "lottie-render",
@@ -387,10 +387,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2024-08-13T00:53:33Z",
-            "open_issues": 2900,
+            "open_issues": 2901,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33207,
+            "stars": 33209,
             "topics": [
               "android",
               "ffmpeg",
@@ -418,7 +418,7 @@
             "open_issues": 65,
             "owner": "leixiaohua1020",
             "repo": "simplest_ffmpeg_mobile",
-            "stars": 1943,
+            "stars": 1944,
             "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
@@ -502,7 +502,7 @@
             "open_issues": 1,
             "owner": "talwrii",
             "repo": "ffmpeg-cookbook",
-            "stars": 103,
+            "stars": 104,
             "topics": [
               "command-line",
               "cookbook",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:54:27.152Z",
+    "last_updated": "2026-09-23T22:54:58.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
