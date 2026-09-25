@@ -40,7 +40,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5509,
+            "stars": 5510,
             "topics": [
               "animations",
               "cli",
@@ -445,7 +445,7 @@
             "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11046,
+            "stars": 11048,
             "topics": [
               "codec",
               "ffmpeg",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:10:39.923Z",
+    "last_updated": "2026-09-25T23:16:20.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
