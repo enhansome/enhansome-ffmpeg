@@ -445,7 +445,7 @@
             "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11050,
+            "stars": 11051,
             "topics": [
               "codec",
               "ffmpeg",
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1747,
+            "stars": 1749,
             "topics": [
               "automation",
               "cheatsheet",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:42:44.525Z",
+    "last_updated": "2026-10-01T23:51:25.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
@@ -528,7 +528,7 @@
       "open_issues": 19,
       "owner": "transitive-bullshit",
       "repo": "awesome-ffmpeg",
-      "stars": 1190,
+      "stars": 1191,
       "topics": [
         "awesome",
         "awesome-list",
