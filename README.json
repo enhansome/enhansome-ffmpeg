@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "Learn FFmpeg libav the Hard Way",
-          "description": null,
+          "description": "leandromoreira/ffmpeg-libav-tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "FFmpeg Cheatsheet for Video Automation",
-          "description": null,
+          "description": "rendi-api/ffmpeg-cheatsheet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -489,7 +489,7 @@
         {
           "node_type": "item",
           "title": "A Beginner's FFmpeg Cookbook",
-          "description": null,
+          "description": "talwrii/ffmpeg-cookbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:44:00.699Z",
+    "last_updated": "2026-10-03T04:48:34.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
