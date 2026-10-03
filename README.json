@@ -40,7 +40,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5513,
+            "stars": 5515,
             "topics": [
               "animations",
               "cli",
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1749,
+            "stars": 1748,
             "topics": [
               "automation",
               "cheatsheet",
@@ -502,7 +502,7 @@
             "open_issues": 1,
             "owner": "talwrii",
             "repo": "ffmpeg-cookbook",
-            "stars": 104,
+            "stars": 103,
             "topics": [
               "command-line",
               "cookbook",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:34.084Z",
+    "last_updated": "2026-10-03T22:50:56.322Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
