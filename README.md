@@ -49,7 +49,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Mobile
 
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,210 | 🐛 2,904 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,211 | 🐛 2,904 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
 * [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,945 | 🐛 65 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
 
 ## Tutorials
