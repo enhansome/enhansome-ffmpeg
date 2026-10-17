@@ -19,7 +19,7 @@
             "open_issues": 419,
             "owner": "fluent-ffmpeg",
             "repo": "node-fluent-ffmpeg",
-            "stars": 8230,
+            "stars": 8229,
             "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
@@ -75,7 +75,7 @@
             "open_issues": 82,
             "owner": "Kagami",
             "repo": "ffmpeg.js",
-            "stars": 3461,
+            "stars": 3460,
             "topics": [
               "emscripten",
               "ffmpeg",
@@ -100,7 +100,7 @@
             "open_issues": 34,
             "owner": "eugeneware",
             "repo": "ffmpeg-static",
-            "stars": 1405,
+            "stars": 1406,
             "topics": []
           },
           "first_seen": "2026-08-28T04:21:01.180Z"
@@ -445,7 +445,7 @@
             "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11054,
+            "stars": 11053,
             "topics": [
               "codec",
               "ffmpeg",
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1750,
+            "stars": 1749,
             "topics": [
               "automation",
               "cheatsheet",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T22:46:49.625Z",
+    "last_updated": "2026-10-17T22:13:46.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
