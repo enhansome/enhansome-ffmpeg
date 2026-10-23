@@ -28,7 +28,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 ## JavaScript
 
 * [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) ⚠️ Archived - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
-* [editly](https://github.com/mifi/editly) ⭐ 5,540 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
+* [editly](https://github.com/mifi/editly) ⭐ 5,543 | 🐛 80 | 🌐 TypeScript | 📅 2025-05-12 - Declarative video editing tool and library with slick animations and transitions.
 * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) ⭐ 3,461 | 🐛 82 | 🌐 JavaScript | 📅 2023-11-04 - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
 * [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static) ⭐ 1,407 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-21 - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 * [ffmpeg-concat](https://github.com/transitive-bullshit/ffmpeg-concat) ⭐ 990 | 🐛 52 | 🌐 JavaScript | 📅 2026-01-24 - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
@@ -40,7 +40,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 * [ffmpeg-extract-frame](https://github.com/transitive-bullshit/ffmpeg-extract-frame) ⭐ 16 | 🐛 15 | 🌐 JavaScript | 📅 2022-12-07 - Extracts a single frame from a video.
 * [ffmpeg-on-progress](https://github.com/transitive-bullshit/ffmpeg-on-progress) ⭐ 14 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-11 - Utility for robustly reporting progress with fluent-ffmpeg.
 * [ffparser](https://github.com/NiKlimenko/FFParser) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2019-05-26 - Parse input stream by frames directly into your code as a buffer.
-* [lottie-render](https://github.com/steven-panxd/lottie-render) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-23 - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
+* [lottie-render](https://github.com/steven-panxd/lottie-render) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-23 - Converts Lottie animations to MP4 using Playwright and FFmpeg, as a library or self-hosted HTTP service.
 * [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
 
 ## Native
@@ -49,7 +49,7 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 
 ## Mobile
 
-* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,220 | 🐛 2,905 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) ⭐ 33,221 | 🐛 2,905 | 🌐 C | 📅 2024-08-13 - Android / iOS video player based on FFmpeg.
 * [simplest ffmpeg mobile](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) ⭐ 1,945 | 🐛 65 | 🌐 C | 📅 2016-04-19 - FFmpeg examples for Android and iOS.
 
 ## Tutorials
@@ -81,4 +81,4 @@ Support my OSS work by <a href="https://twitter.com/transitive_bs">following me 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
