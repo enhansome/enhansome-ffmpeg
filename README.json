@@ -390,7 +390,7 @@
             "open_issues": 2905,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33221,
+            "stars": 33220,
             "topics": [
               "android",
               "ffmpeg",
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1751,
+            "stars": 1750,
             "topics": [
               "automation",
               "cheatsheet",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:05:00.025Z",
+    "last_updated": "2026-10-24T22:25:32.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
