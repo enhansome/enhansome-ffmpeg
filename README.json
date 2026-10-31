@@ -40,7 +40,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5574,
+            "stars": 5575,
             "topics": [
               "animations",
               "cli",
@@ -390,7 +390,7 @@
             "open_issues": 2905,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33227,
+            "stars": 33232,
             "topics": [
               "android",
               "ffmpeg",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:39:59.841Z",
+    "last_updated": "2026-10-31T23:18:53.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
