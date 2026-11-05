@@ -387,10 +387,10 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2024-08-13T00:53:33Z",
-            "open_issues": 2906,
+            "open_issues": 2907,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33234,
+            "stars": 33231,
             "topics": [
               "android",
               "ffmpeg",
@@ -445,7 +445,7 @@
             "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11063,
+            "stars": 11066,
             "topics": [
               "codec",
               "ffmpeg",
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1751,
+            "stars": 1750,
             "topics": [
               "automation",
               "cheatsheet",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T00:33:52.159Z",
+    "last_updated": "2026-11-05T00:51:07.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
@@ -525,7 +525,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-18T02:53:31Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "transitive-bullshit",
       "repo": "awesome-ffmpeg",
       "stars": 1202,
