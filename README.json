@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2025-05-22T09:42:00Z",
-            "open_issues": 419,
+            "open_issues": 418,
             "owner": "fluent-ffmpeg",
             "repo": "node-fluent-ffmpeg",
             "stars": 8224,
@@ -40,7 +40,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5583,
+            "stars": 5587,
             "topics": [
               "animations",
               "cli",
@@ -75,7 +75,7 @@
             "open_issues": 82,
             "owner": "Kagami",
             "repo": "ffmpeg.js",
-            "stars": 3462,
+            "stars": 3461,
             "topics": [
               "emscripten",
               "ffmpeg",
@@ -390,7 +390,7 @@
             "open_issues": 2907,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33232,
+            "stars": 33230,
             "topics": [
               "android",
               "ffmpeg",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:56:49.935Z",
+    "last_updated": "2026-11-07T00:03:52.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
