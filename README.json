@@ -40,7 +40,7 @@
             "open_issues": 80,
             "owner": "mifi",
             "repo": "editly",
-            "stars": 5616,
+            "stars": 5628,
             "topics": [
               "animations",
               "cli",
@@ -390,7 +390,7 @@
             "open_issues": 2909,
             "owner": "bilibili",
             "repo": "ijkplayer",
-            "stars": 33233,
+            "stars": 33235,
             "topics": [
               "android",
               "ffmpeg",
@@ -445,7 +445,7 @@
             "open_issues": 42,
             "owner": "leandromoreira",
             "repo": "ffmpeg-libav-tutorial",
-            "stars": 11071,
+            "stars": 11072,
             "topics": [
               "codec",
               "ffmpeg",
@@ -474,7 +474,7 @@
             "open_issues": 1,
             "owner": "rendi-api",
             "repo": "ffmpeg-cheatsheet",
-            "stars": 1755,
+            "stars": 1756,
             "topics": [
               "automation",
               "cheatsheet",
@@ -516,7 +516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:53:09.677Z",
+    "last_updated": "2026-11-18T02:21:47.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "👻 A curated list of awesome FFmpeg resources.",
@@ -525,7 +525,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-18T02:53:31Z",
-      "open_issues": 32,
+      "open_issues": 33,
       "owner": "transitive-bullshit",
       "repo": "awesome-ffmpeg",
       "stars": 1203,
